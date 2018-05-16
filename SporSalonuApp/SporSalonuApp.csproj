@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CA137048-7636-4DF0-9F71-23B89E84B438}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>SporSalonuApp</RootNamespace>
+    <AssemblyName>SporSalonuApp</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="SekreterGirisFormu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SekreterGirisFormu.Designer.cs">
+      <DependentUpon>SekreterGirisFormu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TahsilatFormu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TahsilatFormu.Designer.cs">
+      <DependentUpon>TahsilatFormu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UrunlerDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>UrunlerDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="UrunlerFormu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UrunlerFormu.Designer.cs">
+      <DependentUpon>UrunlerFormu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KullaniciGirisFormu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KullaniciGirisFormu.Designer.cs">
+      <DependentUpon>KullaniciGirisFormu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SporAktiviteGunlugu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SporAktiviteGunlugu.Designer.cs">
+      <DependentUpon>SporAktiviteGunlugu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SporSalonuDataBaseDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SporSalonuDataBaseDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SporSalonuDataBaseDataSet1.cs">
+      <DependentUpon>SporSalonuDataBaseDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SporSalonuDataBaseDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SporSalonuDataBaseDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="UrunlerTabloDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>UrunlerTabloDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="UrunSatislariFormu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UrunSatislariFormu.Designer.cs">
+      <DependentUpon>UrunSatislariFormu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UyeBilgiGirisFormu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UyeBilgiGirisFormu.Designer.cs">
+      <DependentUpon>UyeBilgiGirisFormu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UyereSatisDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>UyereSatisDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="YoneticiGirisi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YoneticiGirisi.Designer.cs">
+      <DependentUpon>YoneticiGirisi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="SekreterGirisFormu.resx">
+      <DependentUpon>SekreterGirisFormu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TahsilatFormu.resx">
+      <DependentUpon>TahsilatFormu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UrunlerFormu.resx">
+      <DependentUpon>UrunlerFormu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KullaniciGirisFormu.resx">
+      <DependentUpon>KullaniciGirisFormu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SporAktiviteGunlugu.resx">
+      <DependentUpon>SporAktiviteGunlugu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UrunSatislariFormu.resx">
+      <DependentUpon>UrunSatislariFormu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UyeBilgiGirisFormu.resx">
+      <DependentUpon>UyeBilgiGirisFormu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YoneticiGirisi.resx">
+      <DependentUpon>YoneticiGirisi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="SporSalonuDataBaseDataSet.xsc">
+      <DependentUpon>SporSalonuDataBaseDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="SporSalonuDataBaseDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SporSalonuDataBaseDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SporSalonuDataBaseDataSet.xss">
+      <DependentUpon>SporSalonuDataBaseDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="SporSalonuDataBaseDataSet1.xsc">
+      <DependentUpon>SporSalonuDataBaseDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="SporSalonuDataBaseDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SporSalonuDataBaseDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SporSalonuDataBaseDataSet1.xss">
+      <DependentUpon>SporSalonuDataBaseDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="UrunlerDataSet.xsc">
+      <DependentUpon>UrunlerDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="UrunlerDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>UrunlerDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="UrunlerDataSet.xss">
+      <DependentUpon>UrunlerDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="UrunlerTabloDataSet.xsc">
+      <DependentUpon>UrunlerTabloDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="UrunlerTabloDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>UrunlerTabloDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="UrunlerTabloDataSet.xss">
+      <DependentUpon>UrunlerTabloDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="UyereSatisDataSet.xsc">
+      <DependentUpon>UyereSatisDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="UyereSatisDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>UyereSatisDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="UyereSatisDataSet.xss">
+      <DependentUpon>UyereSatisDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,68 @@
+C:\Users\Muh\Desktop\VTProjesi\SporSalonuApp\SporSalonuApp\bin\Debug\SporSalonuApp.exe.config
+C:\Users\Muh\Desktop\VTProjesi\SporSalonuApp\SporSalonuApp\bin\Debug\SporSalonuApp.exe
+C:\Users\Muh\Desktop\VTProjesi\SporSalonuApp\SporSalonuApp\bin\Debug\SporSalonuApp.pdb
+C:\Users\Muh\Desktop\VTProjesi\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.csprojAssemblyReference.cache
+C:\Users\Muh\Desktop\VTProjesi\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.YoneticiGirisi.resources
+C:\Users\Muh\Desktop\VTProjesi\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.Properties.Resources.resources
+C:\Users\Muh\Desktop\VTProjesi\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.csproj.GenerateResource.cache
+C:\Users\Muh\Desktop\VTProjesi\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.csproj.CoreCompileInputs.cache
+C:\Users\Muh\Desktop\VTProjesi\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.exe
+C:\Users\Muh\Desktop\VTProjesi\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.pdb
+C:\Users\Muh\Desktop\VTProjesi\SporSalonuApp - Kopya\SporSalonuApp\obj\Debug\SporSalonuApp.csprojAssemblyReference.cache
+C:\Users\Muh\Desktop\VTProjesi\SporSalonuApp - Kopya\SporSalonuApp\obj\Debug\SporSalonuApp.UyeGirisFormu.resources
+C:\Users\Muh\Desktop\VTProjesi\SporSalonuApp - Kopya\SporSalonuApp\obj\Debug\SporSalonuApp.YoneticiGirisi.resources
+C:\Users\Muh\Desktop\VTProjesi\SporSalonuApp - Kopya\SporSalonuApp\obj\Debug\SporSalonuApp.Properties.Resources.resources
+C:\Users\Muh\Desktop\VTProjesi\SporSalonuApp - Kopya\SporSalonuApp\obj\Debug\SporSalonuApp.csproj.GenerateResource.cache
+C:\Users\Muh\Desktop\VTProjesi\SporSalonuApp - Kopya\SporSalonuApp\obj\Debug\SporSalonuApp.csproj.CoreCompileInputs.cache
+C:\Users\Muh\Desktop\VTProjesi\SporSalonuApp - Kopya\SporSalonuApp\obj\Debug\SporSalonuApp.exe
+C:\Users\Muh\Desktop\VTProjesi\SporSalonuApp - Kopya\SporSalonuApp\obj\Debug\SporSalonuApp.pdb
+C:\Users\Muh\Desktop\VTProjesi\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.UyeBilgiGirisFormu.resources
+C:\Users\Muh\Desktop\VTProjesi\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.SporAktiviteGunlugu.resources
+C:\Users\Muh\Desktop\VTProjesi\SporSalonuApp - Kopya (2)\SporSalonuApp\bin\Debug\SporSalonuApp.exe.config
+C:\Users\Muh\Desktop\VTProjesi\SporSalonuApp - Kopya (2)\SporSalonuApp\bin\Debug\SporSalonuApp.exe
+C:\Users\Muh\Desktop\VTProjesi\SporSalonuApp - Kopya (2)\SporSalonuApp\bin\Debug\SporSalonuApp.pdb
+C:\Users\Muh\Desktop\VTProjesi\SporSalonuApp - Kopya (2)\SporSalonuApp\obj\Debug\SporSalonuApp.csprojAssemblyReference.cache
+C:\Users\Muh\Desktop\VTProjesi\SporSalonuApp - Kopya (2)\SporSalonuApp\obj\Debug\SporSalonuApp.SporAktiviteGunlugu.resources
+C:\Users\Muh\Desktop\VTProjesi\SporSalonuApp - Kopya (2)\SporSalonuApp\obj\Debug\SporSalonuApp.UyeBilgiGirisFormu.resources
+C:\Users\Muh\Desktop\VTProjesi\SporSalonuApp - Kopya (2)\SporSalonuApp\obj\Debug\SporSalonuApp.YoneticiGirisi.resources
+C:\Users\Muh\Desktop\VTProjesi\SporSalonuApp - Kopya (2)\SporSalonuApp\obj\Debug\SporSalonuApp.Properties.Resources.resources
+C:\Users\Muh\Desktop\VTProjesi\SporSalonuApp - Kopya (2)\SporSalonuApp\obj\Debug\SporSalonuApp.csproj.GenerateResource.cache
+C:\Users\Muh\Desktop\VTProjesi\SporSalonuApp - Kopya (2)\SporSalonuApp\obj\Debug\SporSalonuApp.csproj.CoreCompileInputs.cache
+C:\Users\Muh\Desktop\VTProjesi\SporSalonuApp - Kopya (2)\SporSalonuApp\obj\Debug\SporSalonuApp.exe
+C:\Users\Muh\Desktop\VTProjesi\SporSalonuApp - Kopya (2)\SporSalonuApp\obj\Debug\SporSalonuApp.pdb
+C:\Users\Muh\Desktop\VTProjesi\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.KullaniciGirisFormu.resources
+C:\Users\Muh\Desktop\VTProjesi\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.UrunlerFormu.resources
+F:\VTProjesi\SporSalonuApp\SporSalonuApp\bin\Debug\SporSalonuApp.exe.config
+F:\VTProjesi\SporSalonuApp\SporSalonuApp\bin\Debug\SporSalonuApp.exe
+F:\VTProjesi\SporSalonuApp\SporSalonuApp\bin\Debug\SporSalonuApp.pdb
+F:\VTProjesi\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.csprojAssemblyReference.cache
+F:\VTProjesi\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.UrunlerFormu.resources
+F:\VTProjesi\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.KullaniciGirisFormu.resources
+F:\VTProjesi\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.SporAktiviteGunlugu.resources
+F:\VTProjesi\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.UyeBilgiGirisFormu.resources
+F:\VTProjesi\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.YoneticiGirisi.resources
+F:\VTProjesi\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.Properties.Resources.resources
+F:\VTProjesi\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.csproj.GenerateResource.cache
+F:\VTProjesi\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.csproj.CoreCompileInputs.cache
+F:\VTProjesi\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.exe
+F:\VTProjesi\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.pdb
+F:\VTProjesi\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.SekreterGirisFormu.resources
+F:\VTProjesi\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.TahsilatFormu.resources
+F:\VTProjesi\SporSalonuApp\SporSalonuApp\obj\Debug\SporSalonuApp.UrunSatislariFormu.resources
+F:\VTProjesi\SporSalonuApp - Kopya\SporSalonuApp\bin\Debug\SporSalonuApp.exe.config
+F:\VTProjesi\SporSalonuApp - Kopya\SporSalonuApp\bin\Debug\SporSalonuApp.exe
+F:\VTProjesi\SporSalonuApp - Kopya\SporSalonuApp\bin\Debug\SporSalonuApp.pdb
+F:\VTProjesi\SporSalonuApp - Kopya\SporSalonuApp\obj\Debug\SporSalonuApp.csprojAssemblyReference.cache
+F:\VTProjesi\SporSalonuApp - Kopya\SporSalonuApp\obj\Debug\SporSalonuApp.SekreterGirisFormu.resources
+F:\VTProjesi\SporSalonuApp - Kopya\SporSalonuApp\obj\Debug\SporSalonuApp.TahsilatFormu.resources
+F:\VTProjesi\SporSalonuApp - Kopya\SporSalonuApp\obj\Debug\SporSalonuApp.UrunlerFormu.resources
+F:\VTProjesi\SporSalonuApp - Kopya\SporSalonuApp\obj\Debug\SporSalonuApp.KullaniciGirisFormu.resources
+F:\VTProjesi\SporSalonuApp - Kopya\SporSalonuApp\obj\Debug\SporSalonuApp.SporAktiviteGunlugu.resources
+F:\VTProjesi\SporSalonuApp - Kopya\SporSalonuApp\obj\Debug\SporSalonuApp.UrunSatislariFormu.resources
+F:\VTProjesi\SporSalonuApp - Kopya\SporSalonuApp\obj\Debug\SporSalonuApp.UyeBilgiGirisFormu.resources
+F:\VTProjesi\SporSalonuApp - Kopya\SporSalonuApp\obj\Debug\SporSalonuApp.YoneticiGirisi.resources
+F:\VTProjesi\SporSalonuApp - Kopya\SporSalonuApp\obj\Debug\SporSalonuApp.Properties.Resources.resources
+F:\VTProjesi\SporSalonuApp - Kopya\SporSalonuApp\obj\Debug\SporSalonuApp.csproj.GenerateResource.cache
+F:\VTProjesi\SporSalonuApp - Kopya\SporSalonuApp\obj\Debug\SporSalonuApp.csproj.CoreCompileInputs.cache
+F:\VTProjesi\SporSalonuApp - Kopya\SporSalonuApp\obj\Debug\SporSalonuApp.exe
+F:\VTProjesi\SporSalonuApp - Kopya\SporSalonuApp\obj\Debug\SporSalonuApp.pdb
